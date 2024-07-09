@@ -1,0 +1,210 @@
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+/* Banner part */
+.banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/Banner\ Image.png");
+    width: 1320px;
+    height: 600px;
+    margin-left: 300px;
+    margin-right:240px;
+    margin-top: 50px;
+    text-align: center;
+    color: aliceblue;
+    background-repeat: no-repeat;
+    
+}
+.banner-title{
+    font-size: 32px;
+}
+#ban{
+   padding-top: 200px; 
+}
+.banner-main-title{
+    font-size: 72px;
+    font-weight: 900;
+    justify-content: space-between;
+    margin-left: 344px;
+    margin-right: 344px;
+}
+/* FIRST SECTION */
+.new-year{
+    width: 802.9px;
+    height: 806px;
+    margin-left: 530px;
+    margin-right: 398.1px;
+    text-align: center;
+    margin-top: 100px;
+}
+.new-big-title{
+    font-size: 88px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+}
+.new-para{
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(255, 0, 0);
+}
+.new-small-title{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+/* SECOND SECTION */
+.welcome{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/Vectorrr.png");
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 500px;
+    margin-top: 200px;
+    margin-left:300px;
+    margin-right: 398.1px;
+    display: flex;
+    padding-top: 80px;
+}
+.welcome-sec{
+    width:929px;
+}
+.welcome-title{
+    font-size: 64px;
+    font-weight: 900;
+    color: aliceblue;
+    margin-left: 126px;
+    margin-right: 300px;
+}
+.welcome-para{
+    font-size: 18px;
+    font-weight: 400;
+    color: aliceblue;
+    margin-left: 126px;
+    margin-right: 150px;
+}
+.welcome-join{
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: 160px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.welcome-img{
+    width: 296.16px;
+    height: 415.65px;
+    margin-right: 100px;
+}
+.wel-img{
+    padding: 5px 10px 5px;
+    width:301px ;
+}
+/* Section third */
+.time{
+    width: 1320px;
+    height: 380px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 300px;
+    font-size: 32px;
+    font-weight: 600;
+    border-radius: 15px;
+    background-color:rgb(253, 238, 241);
+    padding-top: 100px;
+}
+.time-color{
+    color:rgb(255, 0, 0) ;
+}
+.btn-clr{
+    background-color:rgb(255, 0, 0) ;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+    border-style: none;
+    padding: 10px 40px;
+}
+/* Section fourth */
+.offer{
+    margin-top: 100px;
+    display: flex;
+    width: 1320px;
+    height: 463px;
+    margin-left: 310px;
+}
+.offer-new-space{
+    padding-right: 63px;
+    padding-top: 70px;
+} 
+.offer-new{
+    font-size: 24px;
+    font-weight: 500;
+    color:rgb(255, 0, 0);
+}
+.offer-coming{
+    font-size:48px;
+    font-weight: 900;
+}
+.offer-dolor{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(111, 110, 113, 0.6);
+}
+.img{
+    width: 414px;
+    height: 414px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: 15px solid rgb(255, 0, 0);
+    padding:20px 20px;
+}
+.img-circle{
+    padding-top: 20px;
+}
+.offer-space{
+    padding-left: 90px;
+    padding-top: 70px;
+}   
+.offer-date{
+    font-size: 48px;
+    font-weight: 700;
+    color: rgb(255, 0, 0);
+}
+.img-happy{
+    width: 140px;
+    height: 132.79px; 
+}
+/* Section five */
+.holiday{
+    width: 1068px;
+    height: 260px;
+    text-align: center;
+    margin-left: 416px;
+    margin-top: 100px;
+}
+.holiday-title{
+    font-size: 24px;
+    font-weight: 500;
+}
+.holiday-big-title{
+    font-size: 72px;
+    font-weight: 900;
+}
+.holi{
+   color: rgb(255, 0, 0);
+}
+/* Section six */
+.discount{
+    margin-top: 150px;
+    width: 1320px;
+    height: 650px;
+    display: flex;
+    margin-left: 300px;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.dis-img{
+    width: 250px;
+    height: 250px;
+    padding-top: 100px;
+    padding-left: 120px;
+}
